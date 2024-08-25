@@ -1,0 +1,5 @@
+RegisterNetEvent('OpenIdentityMenu')
+AddEventHandler('OpenIdentityMenu', function ()
+    Citizen.Wait(0.0)
+    lib.showContext('name_change')
+end)
