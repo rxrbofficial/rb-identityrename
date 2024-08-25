@@ -18,19 +18,3 @@ lib.registerContext({
       },
     }
   })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---   local input = lib.inputDialog('Please Fill All The Details', {'First Name', 'Last Name'}, required = tr)
--- print(firstName,lastName)
