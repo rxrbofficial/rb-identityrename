@@ -14,4 +14,4 @@ This item allows players to change their personal details such as first and last
 # - Depencies
   - [oxmysql](<https://github.com/overextended/oxmysql>)
   - [ox_lib](<https://github.com/overextended/ox_lib>)
-  - [ox_inventory](<https://github.com/overextended/ox_inventory>)**
+  - [ox_inventory](<https://github.com/overextended/ox_inventory>)
